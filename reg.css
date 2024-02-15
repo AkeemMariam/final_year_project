@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(235, 132, 229, 0.925);
+    border-spacing: 10px;
+}
+.ire{
+    color: rgb(77, 77, 88);
+    font-size: large;
+    text-align: center;
+    font-family: 'lucida calligraphy';
+    font-style: italic;
+}
+.ayo{
+    text-align: left;
+    font-family: 'cursive';
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(248, 247, 247);
+    word-spacing: 0.1cm;
+    border-spacing: 20%;
+}
+.head{
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    background-color: orchid;
+    padding-bottom: 10px; 
+   
+  }
+  
+  .logo{
+      margin-top: 10px;
+      margin-left: 20px;
+  }
+  
+.ade{
+    color: rgb(248, 244, 247);
+    text-align: right;
+    font-style: italic;
+    font-family: 'lucida calligraphy';
+}
+label{
+    display: block;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(228, 77, 228, 0.89);
+
+}
+.rec{
+    color: cadetblue;
+    font-family: 'system-ui';
+    font-weight: bold;
+    font-size: larger;
+    text-align:center;
+}
+.ade{
+    color: blue;
+    text-align: right;
+    font-style: italic;
+    font-family: 'lucida calligraphy';
+}
+.head{
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    background-color: orchid;
+    padding-bottom: 10px; 
+   
+  }
+  
+  .logo{
+      margin-top: 10px;
+      margin-left: 20px;
+  }
+  section {
+    padding: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+input,textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}

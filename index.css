@@ -1,0 +1,50 @@
+ body{
+    background-color: rgb(175, 64, 175);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px; 
+    
+}
+.image{
+  display: flex;
+  padding: 80px;
+  width: 33%;
+  float: left;
+}
+ .head{
+  letter-spacing: 4px;
+  word-spacing: 5px;
+  background-color: orchid;
+  padding-bottom: 5px; 
+ 
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+li{
+  display: inline;
+  text-align: left;
+}
+a:hover {
+  color: rgb(158, 91, 122);
+}
+ a.nav{
+  
+    text-align: right;
+    font-style: normal;
+    font-family: 'calida light';
+    font-size: 16px;
+    word-spacing: 2px;
+    margin-bottom: 10px;
+   
+ }
+
+
+ 
+ .footer{
+  text-align: center;
+  padding: 32px;
+  color: rgb(116, 8, 89)
+ }
